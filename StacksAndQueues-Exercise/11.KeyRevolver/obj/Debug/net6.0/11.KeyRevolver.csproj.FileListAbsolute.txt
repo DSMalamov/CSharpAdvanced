@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Exercise\11.KeyRevolver\bin\Debug\net6.0\11.KeyRevolver.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Exercise\11.KeyRevolver\bin\Debug\net6.0\11.KeyRevolver.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Exercise\11.KeyRevolver\bin\Debug\net6.0\11.KeyRevolver.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Exercise\11.KeyRevolver\bin\Debug\net6.0\11.KeyRevolver.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Exercise\11.KeyRevolver\bin\Debug\net6.0\11.KeyRevolver.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net6.0\11.KeyRevolver.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net6.0\11.KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net6.0\11.KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net6.0\11.KeyRevolver.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net6.0\11.KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net6.0\11.KeyRevolver.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net6.0\refint\11.KeyRevolver.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net6.0\11.KeyRevolver.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net6.0\11.KeyRevolver.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net6.0\ref\11.KeyRevolver.dll
