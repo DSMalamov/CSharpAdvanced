@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\MultidimensionalArrays-Exercise\8.Bombs\bin\Debug\net6.0\8.Bombs.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\MultidimensionalArrays-Exercise\8.Bombs\bin\Debug\net6.0\8.Bombs.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\MultidimensionalArrays-Exercise\8.Bombs\bin\Debug\net6.0\8.Bombs.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\MultidimensionalArrays-Exercise\8.Bombs\bin\Debug\net6.0\8.Bombs.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\MultidimensionalArrays-Exercise\8.Bombs\bin\Debug\net6.0\8.Bombs.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net6.0\8.Bombs.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net6.0\8.Bombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net6.0\8.Bombs.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net6.0\8.Bombs.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net6.0\8.Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net6.0\8.Bombs.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net6.0\refint\8.Bombs.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net6.0\8.Bombs.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net6.0\8.Bombs.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net6.0\ref\8.Bombs.dll
