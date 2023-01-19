@@ -33,7 +33,7 @@
 
                 int cellValue = matrix[row, col];
 
-                if (cellValue == 0)
+                if (cellValue <= 0)
                 {
                     continue;
                 }
