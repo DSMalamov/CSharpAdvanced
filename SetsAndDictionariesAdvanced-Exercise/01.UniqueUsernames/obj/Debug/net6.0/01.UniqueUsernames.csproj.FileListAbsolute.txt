@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\refint\01.UniqueUsernames.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\ref\01.UniqueUsernames.dll
