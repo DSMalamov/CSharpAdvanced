@@ -42,50 +42,54 @@ namespace _10.RadioactiveMutantVampireBunnies
 
                 if (cmdArg == 'U')
                 {
-                   
-                    if (matrix[currRow, currCol] == 'B')
+
+                    if ((currRow - 1) >= 0 && matrix[currRow - 1, currCol] == 'B')
                     {
                         result = "dead";
-                        PrintResult(matrix, currRow, currCol, result);
+                        BunnySpread(size, matrix);
+                        PrintResult(matrix, currRow - 1, currCol, result);
                         return;
                     }
                     currRow--;
                 }
                 else if (cmdArg == 'D')
                 {
-                    
-                    if (matrix[currRow, currCol] == 'B')
+
+                    if ((currRow + 1) < matrix.GetLength(0) && matrix[currRow + 1, currCol] == 'B')
                     {
                         result = "dead";
-                        PrintResult(matrix, currRow, currCol, result);
+                        BunnySpread(size, matrix);
+                        PrintResult(matrix, currRow + 1, currCol, result);
                         return;
                     }
                     currRow++;
                 }
                 else if (cmdArg == 'L')
                 {
-                    
-                    if (matrix[currRow, currCol] == 'B')
+
+                    if ((currCol - 1) >= 0 && matrix[currRow, currCol - 1] == 'B')
                     {
                         result = "dead";
-                        PrintResult(matrix, currRow, currCol, result);
+                        BunnySpread(size, matrix);
+                        PrintResult(matrix, currRow, currCol - 1, result);
                         return;
                     }
                     currCol--;
                 }
                 else if (cmdArg == 'R')
                 {
-                    
-                    if (matrix[currRow, currCol] == 'B')
+
+                    if ((currCol + 1) < matrix.GetLength(1) && matrix[currRow, currCol + 1] == 'B')
                     {
                         result = "dead";
-                        PrintResult(matrix, currRow, currCol, result);
+                        BunnySpread(size, matrix);
+                        PrintResult(matrix, currRow, currCol + 1, result);
                         return;
                     }
                     currCol++;
                 }
 
-                
+
 
                 BunnySpread(size, matrix);
 
@@ -160,6 +164,14 @@ namespace _10.RadioactiveMutantVampireBunnies
             else if (currRow < 0)
             {
                 currRow = 0;
+            }
+            else if (currRow >= matrix.GetLength(0))
+            {
+                currRow = matrix.GetLength(0) - 1;
+            }
+            else if (currCol >= matrix.GetLength(1))
+            {
+                currCol = matrix.GetLength(1) - 1;
             }
             Console.WriteLine($"{result}: {currRow} {currCol}");
         }
