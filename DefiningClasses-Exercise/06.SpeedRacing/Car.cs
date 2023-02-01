@@ -8,6 +8,10 @@ namespace _06.SpeedRacing
 {
     public class Car
     {
+        private string model;
+        private double fuelAmount;
+        private double fuelConsumption;
+        private double travelledDist;
         public Car(string model, double fuelAmount, double fuelConsumptionPerKm)
         {
             Model = model;
@@ -21,11 +25,16 @@ namespace _06.SpeedRacing
         public double FuelConsumptionPerKm { get; set; }
         public double TravelledDist { get; set; }
 
-        public Car Travel(string name, int distance)
+        public void Travel(double distance)
         {
-            if ( )
+            if (distance * FuelConsumptionPerKm > FuelAmount )
             {
-
+                Console.WriteLine("Insufficient fuel for the drive");
+            }
+            else
+            {
+                TravelledDist += distance;
+                FuelAmount -= distance * FuelConsumptionPerKm;
             }
 
         }

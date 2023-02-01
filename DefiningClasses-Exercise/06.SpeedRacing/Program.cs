@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            List<Car> cars = new List<Car>();
+            Dictionary<string, Car> carsByName = new();
 
             int n = int.Parse(Console.ReadLine());
 
@@ -15,7 +15,7 @@
 
                 Car car = new(currCar[0], double.Parse(currCar[1]), double.Parse(currCar[2]));
 
-                cars.Add(car);
+                carsByName.Add(car.Model, car);
             }
 
             string command;
@@ -24,8 +24,17 @@
             {
                 string[] cmdArg = command
                     .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+                string model = cmdArg[1];
+                double distanceInKm = double.Parse(cmdArg[2]);
 
+                Car car = carsByName[model];
                 
+                car.Travel(distanceInKm);
+            }
+
+            foreach (var item in carsByName)
+            {
+                Console.WriteLine($"{item.Value.Model} {item.Value.FuelAmount:f2} {item.Value.TravelledDist}");
             }
         }
     }
