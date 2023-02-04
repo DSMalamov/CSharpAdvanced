@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\LinkedList\01.LinkedList\bin\Debug\net6.0\01.LinkedList.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\LinkedList\01.LinkedList\bin\Debug\net6.0\01.LinkedList.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\LinkedList\01.LinkedList\bin\Debug\net6.0\01.LinkedList.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\LinkedList\01.LinkedList\bin\Debug\net6.0\01.LinkedList.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\LinkedList\01.LinkedList\bin\Debug\net6.0\01.LinkedList.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\LinkedList\01.LinkedList\obj\Debug\net6.0\01.LinkedList.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\LinkedList\01.LinkedList\obj\Debug\net6.0\01.LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\LinkedList\01.LinkedList\obj\Debug\net6.0\01.LinkedList.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\LinkedList\01.LinkedList\obj\Debug\net6.0\01.LinkedList.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\LinkedList\01.LinkedList\obj\Debug\net6.0\01.LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\LinkedList\01.LinkedList\obj\Debug\net6.0\01.LinkedList.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\LinkedList\01.LinkedList\obj\Debug\net6.0\refint\01.LinkedList.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\LinkedList\01.LinkedList\obj\Debug\net6.0\01.LinkedList.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\LinkedList\01.LinkedList\obj\Debug\net6.0\01.LinkedList.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\LinkedList\01.LinkedList\obj\Debug\net6.0\ref\01.LinkedList.dll
