@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\03.CustomQueue\bin\Debug\net6.0\03.CustomQueue.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\03.CustomQueue\bin\Debug\net6.0\03.CustomQueue.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\03.CustomQueue\bin\Debug\net6.0\03.CustomQueue.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\03.CustomQueue\bin\Debug\net6.0\03.CustomQueue.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\03.CustomQueue\bin\Debug\net6.0\03.CustomQueue.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\03.CustomQueue\obj\Debug\net6.0\03.CustomQueue.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\03.CustomQueue\obj\Debug\net6.0\03.CustomQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\03.CustomQueue\obj\Debug\net6.0\03.CustomQueue.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\03.CustomQueue\obj\Debug\net6.0\03.CustomQueue.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\03.CustomQueue\obj\Debug\net6.0\03.CustomQueue.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\03.CustomQueue\obj\Debug\net6.0\03.CustomQueue.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\03.CustomQueue\obj\Debug\net6.0\refint\03.CustomQueue.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\03.CustomQueue\obj\Debug\net6.0\03.CustomQueue.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\03.CustomQueue\obj\Debug\net6.0\03.CustomQueue.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\03.CustomQueue\obj\Debug\net6.0\ref\03.CustomQueue.dll
