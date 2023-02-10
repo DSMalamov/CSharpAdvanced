@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericBoxOfInteger\obj\Debug\net6.0\refint\GenericBoxOfInteger.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericBoxOfInteger\obj\Debug\net6.0\ref\GenericBoxOfInteger.dll
