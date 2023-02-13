@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.EnergyDrinks\bin\Debug\net6.0\01.EnergyDrinks.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.EnergyDrinks\bin\Debug\net6.0\01.EnergyDrinks.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.EnergyDrinks\bin\Debug\net6.0\01.EnergyDrinks.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.EnergyDrinks\bin\Debug\net6.0\01.EnergyDrinks.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.EnergyDrinks\bin\Debug\net6.0\01.EnergyDrinks.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.EnergyDrinks\obj\Debug\net6.0\01.EnergyDrinks.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.EnergyDrinks\obj\Debug\net6.0\01.EnergyDrinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.EnergyDrinks\obj\Debug\net6.0\01.EnergyDrinks.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.EnergyDrinks\obj\Debug\net6.0\01.EnergyDrinks.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.EnergyDrinks\obj\Debug\net6.0\01.EnergyDrinks.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.EnergyDrinks\obj\Debug\net6.0\01.EnergyDrinks.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.EnergyDrinks\obj\Debug\net6.0\refint\01.EnergyDrinks.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.EnergyDrinks\obj\Debug\net6.0\01.EnergyDrinks.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.EnergyDrinks\obj\Debug\net6.0\01.EnergyDrinks.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.EnergyDrinks\obj\Debug\net6.0\ref\01.EnergyDrinks.dll
