@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\11.BakeryShop\bin\Debug\netcoreapp3.1\11.BakeryShop.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\11.BakeryShop\bin\Debug\netcoreapp3.1\11.BakeryShop.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\11.BakeryShop\bin\Debug\netcoreapp3.1\11.BakeryShop.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\11.BakeryShop\bin\Debug\netcoreapp3.1\11.BakeryShop.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\11.BakeryShop\bin\Debug\netcoreapp3.1\11.BakeryShop.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\11.BakeryShop\bin\Debug\netcoreapp3.1\11.BakeryShop.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\11.BakeryShop\obj\Debug\netcoreapp3.1\11.BakeryShop.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\11.BakeryShop\obj\Debug\netcoreapp3.1\11.BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\11.BakeryShop\obj\Debug\netcoreapp3.1\11.BakeryShop.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\11.BakeryShop\obj\Debug\netcoreapp3.1\11.BakeryShop.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\11.BakeryShop\obj\Debug\netcoreapp3.1\11.BakeryShop.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\11.BakeryShop\obj\Debug\netcoreapp3.1\11.BakeryShop.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\11.BakeryShop\obj\Debug\netcoreapp3.1\11.BakeryShop.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\11.BakeryShop\obj\Debug\netcoreapp3.1\11.BakeryShop.genruntimeconfig.cache

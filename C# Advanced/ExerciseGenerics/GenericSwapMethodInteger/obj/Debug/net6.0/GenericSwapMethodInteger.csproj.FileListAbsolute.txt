@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericSwapMethodInteger\obj\Debug\net6.0\refint\GenericSwapMethodInteger.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericSwapMethodInteger\obj\Debug\net6.0\ref\GenericSwapMethodInteger.dll

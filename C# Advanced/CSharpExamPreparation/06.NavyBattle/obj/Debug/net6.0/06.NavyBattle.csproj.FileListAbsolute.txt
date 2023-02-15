@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\06.NavyBattle\bin\Debug\net6.0\06.NavyBattle.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\06.NavyBattle\bin\Debug\net6.0\06.NavyBattle.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\06.NavyBattle\bin\Debug\net6.0\06.NavyBattle.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\06.NavyBattle\bin\Debug\net6.0\06.NavyBattle.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\06.NavyBattle\bin\Debug\net6.0\06.NavyBattle.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\06.NavyBattle\obj\Debug\net6.0\06.NavyBattle.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\06.NavyBattle\obj\Debug\net6.0\06.NavyBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\06.NavyBattle\obj\Debug\net6.0\06.NavyBattle.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\06.NavyBattle\obj\Debug\net6.0\06.NavyBattle.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\06.NavyBattle\obj\Debug\net6.0\06.NavyBattle.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\06.NavyBattle\obj\Debug\net6.0\06.NavyBattle.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\06.NavyBattle\obj\Debug\net6.0\refint\06.NavyBattle.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\06.NavyBattle\obj\Debug\net6.0\06.NavyBattle.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\06.NavyBattle\obj\Debug\net6.0\06.NavyBattle.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\06.NavyBattle\obj\Debug\net6.0\ref\06.NavyBattle.dll

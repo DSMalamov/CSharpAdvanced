@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Lab\4.MatchingBrackets\bin\Debug\netcoreapp3.1\4.MatchingBrackets.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Lab\4.MatchingBrackets\bin\Debug\netcoreapp3.1\4.MatchingBrackets.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Lab\4.MatchingBrackets\bin\Debug\netcoreapp3.1\4.MatchingBrackets.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Lab\4.MatchingBrackets\bin\Debug\netcoreapp3.1\4.MatchingBrackets.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Lab\4.MatchingBrackets\bin\Debug\netcoreapp3.1\4.MatchingBrackets.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Lab\4.MatchingBrackets\bin\Debug\netcoreapp3.1\4.MatchingBrackets.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\netcoreapp3.1\4.MatchingBrackets.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\netcoreapp3.1\4.MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\netcoreapp3.1\4.MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\netcoreapp3.1\4.MatchingBrackets.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\netcoreapp3.1\4.MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\netcoreapp3.1\4.MatchingBrackets.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\netcoreapp3.1\4.MatchingBrackets.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\netcoreapp3.1\4.MatchingBrackets.genruntimeconfig.cache

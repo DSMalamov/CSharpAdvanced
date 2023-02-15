@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\12.BeaverAtWork\bin\Debug\netcoreapp3.1\12.BeaverAtWork.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\12.BeaverAtWork\bin\Debug\netcoreapp3.1\12.BeaverAtWork.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\12.BeaverAtWork\bin\Debug\netcoreapp3.1\12.BeaverAtWork.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\12.BeaverAtWork\bin\Debug\netcoreapp3.1\12.BeaverAtWork.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\12.BeaverAtWork\bin\Debug\netcoreapp3.1\12.BeaverAtWork.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\12.BeaverAtWork\bin\Debug\netcoreapp3.1\12.BeaverAtWork.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\12.BeaverAtWork\obj\Debug\netcoreapp3.1\12.BeaverAtWork.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\12.BeaverAtWork\obj\Debug\netcoreapp3.1\12.BeaverAtWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\12.BeaverAtWork\obj\Debug\netcoreapp3.1\12.BeaverAtWork.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\12.BeaverAtWork\obj\Debug\netcoreapp3.1\12.BeaverAtWork.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\12.BeaverAtWork\obj\Debug\netcoreapp3.1\12.BeaverAtWork.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\12.BeaverAtWork\obj\Debug\netcoreapp3.1\12.BeaverAtWork.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\12.BeaverAtWork\obj\Debug\netcoreapp3.1\12.BeaverAtWork.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\12.BeaverAtWork\obj\Debug\netcoreapp3.1\12.BeaverAtWork.genruntimeconfig.cache

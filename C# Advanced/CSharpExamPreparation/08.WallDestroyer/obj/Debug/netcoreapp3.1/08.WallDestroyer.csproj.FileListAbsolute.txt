@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\08.WallDestroyer\bin\Debug\netcoreapp3.1\08.WallDestroyer.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\08.WallDestroyer\bin\Debug\netcoreapp3.1\08.WallDestroyer.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\08.WallDestroyer\bin\Debug\netcoreapp3.1\08.WallDestroyer.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\08.WallDestroyer\bin\Debug\netcoreapp3.1\08.WallDestroyer.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\08.WallDestroyer\bin\Debug\netcoreapp3.1\08.WallDestroyer.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\08.WallDestroyer\bin\Debug\netcoreapp3.1\08.WallDestroyer.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\08.WallDestroyer\obj\Debug\netcoreapp3.1\08.WallDestroyer.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\08.WallDestroyer\obj\Debug\netcoreapp3.1\08.WallDestroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\08.WallDestroyer\obj\Debug\netcoreapp3.1\08.WallDestroyer.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\08.WallDestroyer\obj\Debug\netcoreapp3.1\08.WallDestroyer.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\08.WallDestroyer\obj\Debug\netcoreapp3.1\08.WallDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\08.WallDestroyer\obj\Debug\netcoreapp3.1\08.WallDestroyer.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\08.WallDestroyer\obj\Debug\netcoreapp3.1\08.WallDestroyer.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\08.WallDestroyer\obj\Debug\netcoreapp3.1\08.WallDestroyer.genruntimeconfig.cache

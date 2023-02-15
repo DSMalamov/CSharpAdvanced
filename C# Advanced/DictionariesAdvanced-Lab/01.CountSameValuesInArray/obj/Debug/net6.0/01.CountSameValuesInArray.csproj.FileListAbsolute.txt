@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net6.0\01.CountSameValuesInArray.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net6.0\01.CountSameValuesInArray.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net6.0\01.CountSameValuesInArray.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net6.0\01.CountSameValuesInArray.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net6.0\01.CountSameValuesInArray.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\refint\01.CountSameValuesInArray.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\ref\01.CountSameValuesInArray.dll

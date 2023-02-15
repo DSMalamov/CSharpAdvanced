@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DefiningClasses-Exercise\01.DefineAClass\bin\Debug\net6.0\DefineAClass.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DefiningClasses-Exercise\01.DefineAClass\bin\Debug\net6.0\DefineAClass.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DefiningClasses-Exercise\01.DefineAClass\bin\Debug\net6.0\DefineAClass.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DefiningClasses-Exercise\01.DefineAClass\bin\Debug\net6.0\DefineAClass.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DefiningClasses-Exercise\01.DefineAClass\bin\Debug\net6.0\DefineAClass.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DefiningClasses-Exercise\01.DefineAClass\obj\Debug\net6.0\DefineAClass.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DefiningClasses-Exercise\01.DefineAClass\obj\Debug\net6.0\DefineAClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DefiningClasses-Exercise\01.DefineAClass\obj\Debug\net6.0\DefineAClass.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DefiningClasses-Exercise\01.DefineAClass\obj\Debug\net6.0\DefineAClass.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DefiningClasses-Exercise\01.DefineAClass\obj\Debug\net6.0\DefineAClass.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DefiningClasses-Exercise\01.DefineAClass\obj\Debug\net6.0\DefineAClass.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DefiningClasses-Exercise\01.DefineAClass\obj\Debug\net6.0\refint\DefineAClass.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DefiningClasses-Exercise\01.DefineAClass\obj\Debug\net6.0\DefineAClass.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DefiningClasses-Exercise\01.DefineAClass\obj\Debug\net6.0\DefineAClass.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\DefiningClasses-Exercise\01.DefineAClass\obj\Debug\net6.0\ref\DefineAClass.dll

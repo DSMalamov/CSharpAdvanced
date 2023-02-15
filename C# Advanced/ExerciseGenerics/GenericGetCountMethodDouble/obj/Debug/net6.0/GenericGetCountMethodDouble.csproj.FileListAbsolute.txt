@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericGetCountMethodDouble\bin\Debug\net6.0\GenericGetCountMethodDouble.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericGetCountMethodDouble\bin\Debug\net6.0\GenericGetCountMethodDouble.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericGetCountMethodDouble\bin\Debug\net6.0\GenericGetCountMethodDouble.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericGetCountMethodDouble\bin\Debug\net6.0\GenericGetCountMethodDouble.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericGetCountMethodDouble\bin\Debug\net6.0\GenericGetCountMethodDouble.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericGetCountMethodDouble\obj\Debug\net6.0\GenericGetCountMethodDouble.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericGetCountMethodDouble\obj\Debug\net6.0\GenericGetCountMethodDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericGetCountMethodDouble\obj\Debug\net6.0\GenericGetCountMethodDouble.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericGetCountMethodDouble\obj\Debug\net6.0\GenericGetCountMethodDouble.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericGetCountMethodDouble\obj\Debug\net6.0\GenericGetCountMethodDouble.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericGetCountMethodDouble\obj\Debug\net6.0\GenericGetCountMethodDouble.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericGetCountMethodDouble\obj\Debug\net6.0\refint\GenericGetCountMethodDouble.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericGetCountMethodDouble\obj\Debug\net6.0\GenericGetCountMethodDouble.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericGetCountMethodDouble\obj\Debug\net6.0\GenericGetCountMethodDouble.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\ExerciseGenerics\GenericGetCountMethodDouble\obj\Debug\net6.0\ref\GenericGetCountMethodDouble.dll

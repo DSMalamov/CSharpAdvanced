@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\02.CustomStack\bin\Debug\net6.0\02.CustomStack.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\02.CustomStack\bin\Debug\net6.0\02.CustomStack.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\02.CustomStack\bin\Debug\net6.0\02.CustomStack.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\02.CustomStack\bin\Debug\net6.0\02.CustomStack.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\02.CustomStack\bin\Debug\net6.0\02.CustomStack.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\02.CustomStack\obj\Debug\net6.0\02.CustomStack.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\02.CustomStack\obj\Debug\net6.0\02.CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\02.CustomStack\obj\Debug\net6.0\02.CustomStack.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\02.CustomStack\obj\Debug\net6.0\02.CustomStack.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\02.CustomStack\obj\Debug\net6.0\02.CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\02.CustomStack\obj\Debug\net6.0\02.CustomStack.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\02.CustomStack\obj\Debug\net6.0\refint\02.CustomStack.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\02.CustomStack\obj\Debug\net6.0\02.CustomStack.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\02.CustomStack\obj\Debug\net6.0\02.CustomStack.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CurtomDataStructures\02.CustomStack\obj\Debug\net6.0\ref\02.CustomStack.dll

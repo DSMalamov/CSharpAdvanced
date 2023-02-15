@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\07.TilesMaster\bin\Debug\netcoreapp3.1\07.TilesMaster.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\07.TilesMaster\bin\Debug\netcoreapp3.1\07.TilesMaster.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\07.TilesMaster\bin\Debug\netcoreapp3.1\07.TilesMaster.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\07.TilesMaster\bin\Debug\netcoreapp3.1\07.TilesMaster.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\07.TilesMaster\bin\Debug\netcoreapp3.1\07.TilesMaster.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\07.TilesMaster\bin\Debug\netcoreapp3.1\07.TilesMaster.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\07.TilesMaster\obj\Debug\netcoreapp3.1\07.TilesMaster.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\07.TilesMaster\obj\Debug\netcoreapp3.1\07.TilesMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\07.TilesMaster\obj\Debug\netcoreapp3.1\07.TilesMaster.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\07.TilesMaster\obj\Debug\netcoreapp3.1\07.TilesMaster.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\07.TilesMaster\obj\Debug\netcoreapp3.1\07.TilesMaster.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\07.TilesMaster\obj\Debug\netcoreapp3.1\07.TilesMaster.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\07.TilesMaster\obj\Debug\netcoreapp3.1\07.TilesMaster.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\07.TilesMaster\obj\Debug\netcoreapp3.1\07.TilesMaster.genruntimeconfig.cache
