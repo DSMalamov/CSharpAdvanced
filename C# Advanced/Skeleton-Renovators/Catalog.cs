@@ -47,7 +47,22 @@ namespace Renovators
             return $"Successfully added {renovator.Name} to the catalog.";
         }
 
-        public bool RemoveRenovator(string name) => renovators.Any(r => r.Name == name);
+        public bool RemoveRenovator(string name)
+        {
+            if (renovators.Any(r => r.Name == name))
+            {
+                foreach (var item in renovators)
+                {
+                    if (item.Name == name)
+                    {
+                        renovators.Remove(item);
+                        return true;
+                    }
+                }
+            }
+
+            return false;
+        }
 
         public int RemoveRenovatorBySpecialty(string type) => renovators.RemoveAll(r => r.Type == type);
 

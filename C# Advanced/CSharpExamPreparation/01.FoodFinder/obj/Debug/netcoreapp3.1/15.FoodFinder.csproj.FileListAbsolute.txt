@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.FoodFinder\bin\Debug\netcoreapp3.1\15.FoodFinder.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.FoodFinder\bin\Debug\netcoreapp3.1\15.FoodFinder.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.FoodFinder\bin\Debug\netcoreapp3.1\15.FoodFinder.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.FoodFinder\bin\Debug\netcoreapp3.1\15.FoodFinder.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.FoodFinder\bin\Debug\netcoreapp3.1\15.FoodFinder.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.FoodFinder\bin\Debug\netcoreapp3.1\15.FoodFinder.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.FoodFinder\obj\Debug\netcoreapp3.1\15.FoodFinder.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.FoodFinder\obj\Debug\netcoreapp3.1\15.FoodFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.FoodFinder\obj\Debug\netcoreapp3.1\15.FoodFinder.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.FoodFinder\obj\Debug\netcoreapp3.1\15.FoodFinder.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.FoodFinder\obj\Debug\netcoreapp3.1\15.FoodFinder.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.FoodFinder\obj\Debug\netcoreapp3.1\15.FoodFinder.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.FoodFinder\obj\Debug\netcoreapp3.1\15.FoodFinder.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\01.FoodFinder\obj\Debug\netcoreapp3.1\15.FoodFinder.genruntimeconfig.cache

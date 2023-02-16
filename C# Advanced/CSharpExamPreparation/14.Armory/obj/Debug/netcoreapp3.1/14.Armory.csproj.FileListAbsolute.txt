@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\14.Armory\bin\Debug\netcoreapp3.1\14.Armory.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\14.Armory\bin\Debug\netcoreapp3.1\14.Armory.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\14.Armory\bin\Debug\netcoreapp3.1\14.Armory.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\14.Armory\bin\Debug\netcoreapp3.1\14.Armory.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\14.Armory\bin\Debug\netcoreapp3.1\14.Armory.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\14.Armory\bin\Debug\netcoreapp3.1\14.Armory.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\14.Armory\obj\Debug\netcoreapp3.1\14.Armory.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\14.Armory\obj\Debug\netcoreapp3.1\14.Armory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\14.Armory\obj\Debug\netcoreapp3.1\14.Armory.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\14.Armory\obj\Debug\netcoreapp3.1\14.Armory.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\14.Armory\obj\Debug\netcoreapp3.1\14.Armory.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\14.Armory\obj\Debug\netcoreapp3.1\14.Armory.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\14.Armory\obj\Debug\netcoreapp3.1\14.Armory.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\14.Armory\obj\Debug\netcoreapp3.1\14.Armory.genruntimeconfig.cache

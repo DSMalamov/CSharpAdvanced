@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\13.Blacksmith\obj\Debug\netcoreapp3.1\13.Blacksmith.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\13.Blacksmith\obj\Debug\netcoreapp3.1\13.Blacksmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\13.Blacksmith\obj\Debug\netcoreapp3.1\13.Blacksmith.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\13.Blacksmith\obj\Debug\netcoreapp3.1\13.Blacksmith.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\13.Blacksmith\obj\Debug\netcoreapp3.1\13.Blacksmith.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\13.Blacksmith\bin\Debug\netcoreapp3.1\13.Blacksmith.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\13.Blacksmith\bin\Debug\netcoreapp3.1\13.Blacksmith.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\13.Blacksmith\bin\Debug\netcoreapp3.1\13.Blacksmith.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\13.Blacksmith\bin\Debug\netcoreapp3.1\13.Blacksmith.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\13.Blacksmith\bin\Debug\netcoreapp3.1\13.Blacksmith.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\13.Blacksmith\bin\Debug\netcoreapp3.1\13.Blacksmith.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\13.Blacksmith\obj\Debug\netcoreapp3.1\13.Blacksmith.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\13.Blacksmith\obj\Debug\netcoreapp3.1\13.Blacksmith.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\13.Blacksmith\obj\Debug\netcoreapp3.1\13.Blacksmith.genruntimeconfig.cache

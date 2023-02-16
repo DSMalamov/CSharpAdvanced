@@ -84,6 +84,7 @@ namespace _08.WallDestroyer
                     wall[vankoRow, vankoCol] = '*';
                     vankoRow = copyRow;
                     vankoCol = copyCol;
+                    wall[vankoRow, vankoCol] = 'V';
                     holeCounter++;
                 }
             }

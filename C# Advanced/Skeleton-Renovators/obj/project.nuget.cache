@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U4k6HSvuPmELZubbeQCcKflXimQrAuf5py6aEvjld0SI6gq0b+NEI78FcGZ+f9q0KsAi+hWpr5aCZifBlmQH6w==",
+  "dgSpecHash": "OmRHMeRRj6qIv2pJ+0zF2h3E8I6ibSwsLcV1Xo4Q7UlV3Sg1qU6E3wsN+6CmZYq4aBasRZBuPOQQWfA7wN1y4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dragomir Malamov\\Desktop\\programing\\C# Advanced\\Renovators_Skeleton\\Renovators.csproj",
+  "projectFilePath": "C:\\Users\\Dragomir Malamov\\Desktop\\programing\\C# Advanced\\Skeleton-Renovators\\Renovators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

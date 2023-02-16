@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\16.PawnWars\obj\Debug\netcoreapp3.1\16.PawnWars.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\16.PawnWars\obj\Debug\netcoreapp3.1\16.PawnWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\16.PawnWars\obj\Debug\netcoreapp3.1\16.PawnWars.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\16.PawnWars\obj\Debug\netcoreapp3.1\16.PawnWars.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\16.PawnWars\obj\Debug\netcoreapp3.1\16.PawnWars.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\16.PawnWars\bin\Debug\netcoreapp3.1\16.PawnWars.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\16.PawnWars\bin\Debug\netcoreapp3.1\16.PawnWars.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\16.PawnWars\bin\Debug\netcoreapp3.1\16.PawnWars.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\16.PawnWars\bin\Debug\netcoreapp3.1\16.PawnWars.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\16.PawnWars\bin\Debug\netcoreapp3.1\16.PawnWars.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\16.PawnWars\bin\Debug\netcoreapp3.1\16.PawnWars.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\16.PawnWars\obj\Debug\netcoreapp3.1\16.PawnWars.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\16.PawnWars\obj\Debug\netcoreapp3.1\16.PawnWars.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\16.PawnWars\obj\Debug\netcoreapp3.1\16.PawnWars.genruntimeconfig.cache

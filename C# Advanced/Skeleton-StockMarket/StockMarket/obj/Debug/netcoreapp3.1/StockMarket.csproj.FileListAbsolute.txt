@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\Skeleton-StockMarket\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\Skeleton-StockMarket\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\Skeleton-StockMarket\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\Skeleton-StockMarket\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\Skeleton-StockMarket\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\Skeleton-StockMarket\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\Skeleton-StockMarket\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\Skeleton-StockMarket\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\Skeleton-StockMarket\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\Skeleton-StockMarket\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\Skeleton-StockMarket\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\Skeleton-StockMarket\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\Skeleton-StockMarket\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\Skeleton-StockMarket\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache
