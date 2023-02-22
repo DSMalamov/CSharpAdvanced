@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\17.BirthdayCelebration\bin\Debug\netcoreapp3.1\17.BirthdayCelebration.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\17.BirthdayCelebration\bin\Debug\netcoreapp3.1\17.BirthdayCelebration.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\17.BirthdayCelebration\bin\Debug\netcoreapp3.1\17.BirthdayCelebration.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\17.BirthdayCelebration\bin\Debug\netcoreapp3.1\17.BirthdayCelebration.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\17.BirthdayCelebration\bin\Debug\netcoreapp3.1\17.BirthdayCelebration.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\17.BirthdayCelebration\bin\Debug\netcoreapp3.1\17.BirthdayCelebration.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\17.BirthdayCelebration\obj\Debug\netcoreapp3.1\17.BirthdayCelebration.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\17.BirthdayCelebration\obj\Debug\netcoreapp3.1\17.BirthdayCelebration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\17.BirthdayCelebration\obj\Debug\netcoreapp3.1\17.BirthdayCelebration.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\17.BirthdayCelebration\obj\Debug\netcoreapp3.1\17.BirthdayCelebration.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\17.BirthdayCelebration\obj\Debug\netcoreapp3.1\17.BirthdayCelebration.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\17.BirthdayCelebration\obj\Debug\netcoreapp3.1\17.BirthdayCelebration.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\17.BirthdayCelebration\obj\Debug\netcoreapp3.1\17.BirthdayCelebration.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\17.BirthdayCelebration\obj\Debug\netcoreapp3.1\17.BirthdayCelebration.genruntimeconfig.cache

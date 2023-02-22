@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\18.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\18.TheBattleOfTheFiveArmies.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\18.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\18.TheBattleOfTheFiveArmies.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\18.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\18.TheBattleOfTheFiveArmies.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\18.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\18.TheBattleOfTheFiveArmies.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\18.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\18.TheBattleOfTheFiveArmies.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\18.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\18.TheBattleOfTheFiveArmies.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\18.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\18.TheBattleOfTheFiveArmies.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\18.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\18.TheBattleOfTheFiveArmies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\18.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\18.TheBattleOfTheFiveArmies.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\18.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\18.TheBattleOfTheFiveArmies.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\18.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\18.TheBattleOfTheFiveArmies.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\18.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\18.TheBattleOfTheFiveArmies.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\18.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\18.TheBattleOfTheFiveArmies.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\18.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\18.TheBattleOfTheFiveArmies.genruntimeconfig.cache

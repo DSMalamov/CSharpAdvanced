@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\20.BlindMan'sBuff\bin\Debug\net6.0\20.BlindMan'sBuff.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\20.BlindMan'sBuff\bin\Debug\net6.0\20.BlindMan'sBuff.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\20.BlindMan'sBuff\bin\Debug\net6.0\20.BlindMan'sBuff.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\20.BlindMan'sBuff\bin\Debug\net6.0\20.BlindMan'sBuff.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\20.BlindMan'sBuff\bin\Debug\net6.0\20.BlindMan'sBuff.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\20.BlindMan'sBuff\obj\Debug\net6.0\20.BlindMan'sBuff.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\20.BlindMan'sBuff\obj\Debug\net6.0\20.BlindMan'sBuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\20.BlindMan'sBuff\obj\Debug\net6.0\20.BlindMan'sBuff.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\20.BlindMan'sBuff\obj\Debug\net6.0\20.BlindMan'sBuff.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\20.BlindMan'sBuff\obj\Debug\net6.0\20.BlindMan'sBuff.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\20.BlindMan'sBuff\obj\Debug\net6.0\20.BlindMan'sBuff.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\20.BlindMan'sBuff\obj\Debug\net6.0\refint\20.BlindMan'sBuff.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\20.BlindMan'sBuff\obj\Debug\net6.0\20.BlindMan'sBuff.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\20.BlindMan'sBuff\obj\Debug\net6.0\20.BlindMan'sBuff.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# Advanced\CSharpExamPreparation\20.BlindMan'sBuff\obj\Debug\net6.0\ref\20.BlindMan'sBuff.dll
